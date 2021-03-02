@@ -16,7 +16,7 @@ Atualmente estou focado em aprender desenvolvimento web com PHP, HTML e CSS. Tam
 * **Age** : 20
 * **Living in** : Campina Grande, Paraíba
 * **Stack** : Python - Java - PHP
-* **University** : Estudante de Ciência da Computação na Universidade de Federal de Campina Grande
+* **University** : Estudante de Ciência da Computação na Universidade Federal de Campina Grande
 
 ## Curiosidades sobre mim
 
