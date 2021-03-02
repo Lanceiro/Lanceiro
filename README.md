@@ -24,3 +24,4 @@ Atualmente estou focado em aprender desenvolvimento web com PHP, HTML e CSS. Tam
 * Acho que sou uma pessoa tímida, mas estou tentando mudar isso aos poucos.
 * Antes de entrar no curso de Ciência da Computação eu tinha interesse em cursar Engenharia Civil ou Engenharia Química.
 * Meu primeiro contato com programação foi em 2019 quando aprendi lógica de programação usando o Visualg. Em seguida, comecei a estudar Python.
+* Analista profissional de BBB.
