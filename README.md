@@ -8,14 +8,14 @@ Meu nome é Guilherme. Nasci em Campina Grande, Paraíba.
 
 No meu tempo livre costumo assistir séries/animes e de vez em quando jogo Valorant. Aliás, meu username ("lancer", em inglês) é o nome de um personagem do anime Fate/Stay night.
 
-Atualmente estou focado em aprender desenvolvimento web com PHP, HTML e CSS. Também estou focado em aprender inglês.
+Atualmente estou focado em aprender desenvolvimento web com JS, PHP, HTML e CSS. Também estou focado em aprender inglês.
 
 ## Informações específicas
 
 * **Name** : Guilherme Aureliano
 * **Age** : 20
 * **Living in** : Campina Grande, Paraíba
-* **Stack** : Python - Java - PHP
+* **Stack** : Python - Java - JS - PHP
 * **University** : Estudante de Ciência da Computação na Universidade Federal de Campina Grande
 
 ## Curiosidades sobre mim
